@@ -26,17 +26,17 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ":)"
   location         : "Hong Kong, China"
-  employer         : "The Hong Kong University of Science and Technology"
+  employer         : "HKUST"
   uri              : # URL
   email            : "syangcw@connect.ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=6QlQF1oAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
