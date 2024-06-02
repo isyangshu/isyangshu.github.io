@@ -1,21 +1,64 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yang Shu's personal website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a Ph.D Student (2023 Fall) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/).
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- [05/2024] Two papers were early accepted by **MICCAI 2024**.
+- [09/2023] Two papers were accepted by **TNNLS**.
+- [09/2023] I start Ph.D at [SMARTLab](https://hkustsmartlab.netlify.app/)@HKUST on 2023 Fall.
+- [06/2022] I joined Alibaba as the computer vision researcher (full-time).
+- [06/2021] One paper was accepted by **ICCV 2021**.
+- [03/2021] I joined Meituan as research intern.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<h1 id="education"> Education</h1>
+<table style="border: none;rules:none;cellspacing:0;font-size:16px;">
+<tbody><tr>
+    <td><b>08/2023 - present</b> &nbsp;&nbsp;&nbsp;</td>
+    <td><b>HKUST</b>, Hong Kong, China</td>
+</tr>
+<tr>
+    <td></td>
+    <td><font color="grey">PhD in Computer Science and Engineering</font></td>
+</tr>
+<tr>
+    <td><b>09/2019 - 06/2022</b> &nbsp;&nbsp;&nbsp;</td>
+    <td><b>Dalian University of Technology</b>, Dalian, China</td>
+</tr>
+<tr>
+    <td></td>
+    <td><font color="grey">Master in Information and Communication Engineering </font></td>
+</tr>
+<tr>
+    <td><b>09/2015 - 06/2019</b> &nbsp;&nbsp;&nbsp;</td>
+    <td><b>Dalian University of Technology</b>, Dalian, China</td>
+</tr>
+<tr>
+    <td></td>
+    <td><font color="grey">Bachelor in Computer Science and Technology</font></td>
+</tr>
+</tbody></table>
 
-Getting started
+<h1 id="experience"> Experience</h1>
+<table style="border: none;rules:none;cellspacing:0;font-size:16px;">
+<tbody>
+<tr>
+    <td><b>06/2021 - 09/2021</b> &nbsp;&nbsp;&nbsp;</td>
+    <td><b>Tencent AI Lab</b>, Shenzhen, China</td>
+</tr>
+<tr>
+    <td></td>
+    <td><font color="grey">Intern researcher on Computer Vision, Computational Cervical Cytology</font></td>
+</tr>
+</tbody></table>
+
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
