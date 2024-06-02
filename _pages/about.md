@@ -9,6 +9,13 @@ redirect_from:
 
 I'm a Ph.D Student (2023 Fall) in CSE of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) supervised by Prof. [Hao CHEN](https://cse.hkust.edu.hk/~jhc/).
 
+<style>
+
+td, th {
+   border: none!important;
+}
+</style>
+
 News
 ======
 - [05/2024] Two papers were early accepted by **MICCAI 2024**.
