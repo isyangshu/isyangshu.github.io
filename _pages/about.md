@@ -29,7 +29,7 @@ News
 <table style="border: none;rules:none;cellspacing:0;font-size:16px;">
 <tbody><tr>
     <td><b>08/2023 - present</b> &nbsp;&nbsp;&nbsp;</td>
-    <td><b>HKUST</b>, Hong Kong, China</td>
+    <td><b>The Hong Kong University of Science and Technology</b>, Hong Kong, China</td>
 </tr>
 <tr>
     <td></td>
