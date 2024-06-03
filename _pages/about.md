@@ -20,7 +20,7 @@ News
 ======
 - [05/2024] Two papers were early accepted by **MICCAI 2024**.
 - [09/2023] Two papers were accepted by **TNNLS**.
-- [09/2023] I start Ph.D at [SMARTLab](https://hkustsmartlab.netlify.app/)@HKUST on 2023 Fall.
+- [09/2023] I start Ph.D at [SMARTLab](https://hkustsmartlab.github.io/)@HKUST on 2023 Fall.
 - [06/2022] I joined Alibaba as the computer vision researcher (full-time).
 - [06/2021] One paper was accepted by **ICCV 2021**.
 - [03/2021] I joined Meituan as research intern.
