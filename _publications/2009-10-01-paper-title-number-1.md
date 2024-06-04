@@ -11,5 +11,3 @@ citation: "Smith, J., & Doe, J. (2023). Title of Publication. Journal Name, 10(2
 paperurl: /assets/papers/paper.pdf # optional, link to the paper
 slidesurl: /assets/slides/slides.pdf # optional, link to the slides
 ---
-
-Post content in Markdown format goes here.
