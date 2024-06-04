@@ -3,7 +3,7 @@ layout: archive-single
 title: "Learning Motion-Appearance Co-Attention for Zero-Shot Video Object Segmentation"
 date: 2021-05-01
 header:
-  teaser: /assets/images/teaser.jpg
+  teaser: images/640.png
 link: https://example.com # optional external link for the post title
 collection: publications # or "teaching"
 permalink: /publications/post-title
