@@ -1,7 +1,7 @@
 ---
 layout: archive-single
 title: "Learning Motion-Appearance Co-Attention for Zero-Shot Video Object Segmentation"
-date: 2021
+date: 2021-01-01
 venue: ICCV
 header:
   teaser: /assets/images/teaser.jpg
