@@ -8,4 +8,10 @@ date: 2024-03-01
 location: "Hong Kong, China"
 ---
 
-This is a description of a teaching experience. 
+COMP2012 Object-Oriented Programming and Data Structures
+
+**Description**:
+
+To learn the fundamental concepts and techniques behind object-oriented programming. They include: abstract data types; creation, initialization, and destruction of objects; class hierarchies; polymorphism, inheritance and dynamic binding; generic programming using templates. To learn the object-oriented view of data structures: linked lists, stacks, queues, binary trees, and algorithms such as searching and hashing.
+
+**Website**: https://course.cse.ust.hk/comp2012/
