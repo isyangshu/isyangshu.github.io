@@ -2,7 +2,7 @@
 title: "Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition"
 collection: publications
 permalink: /publication/2024-05-14-paper-title-number-5
-excerpt: 'Cancer Subtyping/Survival Prediction'
+excerpt: 'Surgical Phase Recognition'
 date: 2024-05-14
 venue: 'MICCAI (Early Accept)'
 citation: <strong>Shu Yang</strong>, Luyang Luo, Qiong Wang, Hao Chen
