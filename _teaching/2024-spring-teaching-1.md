@@ -8,6 +8,8 @@ date: 2024-03-01
 location: "Hong Kong, China"
 ---
 
+C++ Course, very hard :)
+
 COMP2012 Object-Oriented Programming and Data Structures
 
 **Description**:
