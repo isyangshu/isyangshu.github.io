@@ -4,6 +4,7 @@ date: 2021-01-01
 venue: ICCV
 header:
   teaser: images/640.png
+excerpt: 'This paper is about fixing template issue #693.'
 collection: publications # or "teaching"
 permalink: /publication/2021-01-01-paper-title-number-1
 citation: Shu Yang, Lu Zhang, Jinqing Qi, Huchuan Lu, Shuo Wang, Xiaoxing Zhang
