@@ -1,9 +1,9 @@
 ---
 title: "MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-05-14-paper-title-number-4
 excerpt: 'Cancer Subtyping/Survival Prediction'
-date: 2024-02-17
+date: 2024-05-14
 venue: 'MICCAI (Early Accept)'
 paperurl: 'https://arxiv.org/pdf/2403.06800'
 citation: <strong>Shu Yang</strong>, <strong>Yihui Wang</strong>, Hao Chen
