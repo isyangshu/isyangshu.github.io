@@ -57,22 +57,22 @@ News
 <table style="border: none;rules:none;cellspacing:0;font-size:16px;">
 <tbody>
 <tr>
-    <td><b>06/2021 - 09/2021</b> &nbsp;&nbsp;&nbsp;</td>
-    <td><b>Tencent AI Lab</b>, Shenzhen, China</td>
+    <td><b>03/2021 - 03/2022</b> &nbsp;&nbsp;&nbsp;</td>
+    <td><b>Meituan</b>, Beijing, China</td>
 </tr>
 <tr>
     <td></td>
-    <td><font color="grey">Intern researcher on Computer Vision, Computational Cervical Cytology</font></td>
+    <td><font color="grey">Intern researcher on Computer Vision, Segmentation</font></td>
+</tr>
+<tr>
+    <td><b>03/2022 - 05/2023</b> &nbsp;&nbsp;&nbsp;</td>
+    <td><b>Alibaba AMap</b>, Shenzhen, China</td>
+</tr>
+<tr>
+    <td></td>
+    <td><font color="grey">Full-time researcher on Computer Vision, Autonomous driving/BEV perception</font></td>
 </tr>
 </tbody></table>
-
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
