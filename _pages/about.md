@@ -66,7 +66,7 @@ News
 </tr>
 <tr>
     <td><b>03/2022 - 05/2023</b> &nbsp;&nbsp;&nbsp;</td>
-    <td><b>Alibaba AMap</b>, Shenzhen, China</td>
+    <td><b>Alibaba AMap</b>, Beijing, China</td>
 </tr>
 <tr>
     <td></td>
